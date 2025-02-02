@@ -1,7 +1,0 @@
-Bank: Global Bank
-Branch: Oskemen
-Deposit: Alisher, 10000.0
-Branch: Astana
-Deposit: Altynbek, 10000.0
-Branch: Almaty
-Deposit: Aizat, 800.0
